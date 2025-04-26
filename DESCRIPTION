@@ -1,0 +1,28 @@
+Package: openEvalR
+Title: Provides tools to process, reshape, and evaluate OpenAI JSONL 
+  exports of model outputs using agreement metrics
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Alina", "Hagen",
+      email = "alinahagen16@gmail.com",
+      role = c("aut", "cre")
+    )
+  )
+Description: Simplifies parsing and analyzing OpenAI evals .jsonl files in R
+Depends: R (>= 4.1.0)
+Imports:
+    dplyr,
+    purrr,
+    rlang,
+    jsonlite,
+    tidyr,
+    stringr,
+    caret,
+    irr,
+    irrCAC,
+    magrittr
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
