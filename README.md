@@ -109,6 +109,6 @@ support development. Specifically, OpenAI’s ChatGPT-4o was used to:
 > the original files could not be shared due to privacy and GDPR
 > concerns
 
-> Decode and Troubleshoot check() errors during R package validation, as
-> well as diagnosing and resolving Git-related errors encountered while
-> setting up version control and publishing to GitHub.
+> Decode and Troubleshoot errors during R package development and
+> validation, as well as diagnosing and resolving Git-related errors
+> encountered while setting up version control and publishing to GitHub.
