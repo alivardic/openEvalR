@@ -102,13 +102,15 @@ qwets <- qwetAC1(df, "item.stance")
 
 ## AI Disclourse
 
-This project made limited use of artificial intelligence tools to
-support development. Specifically, OpenAI’s ChatGPT-4o was used to:
+This project made use of artificial intelligence tools to support
+development, specifically, OpenAI’s ChatGPT-4o was used to:
+
+> Decode and Troubleshoot errors during R package development and
+> validation
 
 > Generate a synthetic .jsonl dummy file for demonstration purposes – as
 > the original files could not be shared due to privacy and GDPR
 > concerns
 
-> Decode and Troubleshoot errors during R package development and
-> validation, as well as diagnosing and resolving Git-related errors
-> encountered while setting up version control and publishing to GitHub.
+> Diagnosis and Resolve Git-related errors encountered while setting up
+> version control and publishing to GitHub.
